@@ -1,5 +1,5 @@
 # JS list load
-#Sample script to download multiple items from website (with stable ids)
+#Sample script to show the example of downloading multiple items from website (with stable ids)
 
 Sometimes you want to download multiple files at once, but you don't have a possibility/link to 
 download it with archieve.
