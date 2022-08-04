@@ -4,6 +4,9 @@
 Sometimes you want to download multiple files at once, but you don't have a possibility/link to 
 download it with archieve.
 
+!!!Please mention, that you need to check how download link is generated, that can be ```not your case```, so please 
+check the routes, and think of project as an example 
+
 #It's not a hack or grabbing, it just emulating real-world download, but without user interaction, so don't worry.
 
 I know it's a pretty simple, so please don't throw the tomateoes.
